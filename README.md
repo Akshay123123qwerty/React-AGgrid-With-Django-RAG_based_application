@@ -5,7 +5,7 @@ This project is a **full-stack RAG (Retrieval-Augmented Generation) system** tha
 - **Frontend:** React.js with AG Grid for interactive data input and display.
 - **Backend:** Django + Django REST Framework + JWTS for APIs.
 - **RAG Pipeline:** SentenceTransformers for embeddings + retrieval based on category.
-- **Database:**NEON (with vector embeddings stored).
+- **Database:** NEON (with vector embeddings stored).
 - **Signals:** Django signals for automatically updating embeddings when new data is added.
 
 ---
